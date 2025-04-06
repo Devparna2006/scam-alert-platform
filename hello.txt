@@ -1,2 +1,5 @@
 just for understanding
+<<<<<<< HEAD
 nothing
+=======
+>>>>>>> b2e87124becb9eb9551abe268691447f43caa814
